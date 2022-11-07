@@ -22,9 +22,9 @@ tweetar.addEventListener("click", (event) => {
           <div class="post__header">
             <div class="post__headerText">
               <h3>
-                Somanath Goudar
+                Gabriel Henrique
                 <span class="post__headerSpecial"> <span class="material-icons post__badge"> verified 
-                </span>@somanathg</span>
+                </span>@gabrielhenr_que</span>
               </h3>
             </div>
             <div class="post__headerDescription">
